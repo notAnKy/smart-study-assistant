@@ -200,7 +200,3 @@ App available at: `http://localhost:5173`
 - ✅ Dark mode UI
 
 ---
-
-## 👨‍💻 Author
-
-Built as part of the **Generative AI** module — TEK-UP University, ING-3, 2025–2026.
